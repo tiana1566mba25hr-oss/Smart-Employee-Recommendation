@@ -38,6 +38,7 @@ The recommendation is based on:
    - Not Recommended
 5. Merge all results
 6. Append updated data into Google Sheets
+![WhatsApp Image 2026-04-01 at 15 34 58](https://github.com/user-attachments/assets/8b7fa21c-3b51-451d-a021-f2849f47e20c)
 
 ---
 
@@ -49,6 +50,7 @@ The recommendation is based on:
 - Department-wise Performance
 - Employee Recommendation Distribution
 - Top Performing Employees
+![WhatsApp Image 2026-04-01 at 15 23 05](https://github.com/user-attachments/assets/d1781317-8ab8-4fbd-a9d6-59fe928d2a67)
 
 ---
 
